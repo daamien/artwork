@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Nouveau document 1">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3775">
+      <stop
+         style="stop-color:#3364a4;stop-opacity:1"
+         offset="0"
+         id="stop3777" />
+      <stop
+         id="stop3783"
+         offset="0.99417442"
+         style="stop-color:#1f4a87;stop-opacity:1" />
+      <stop
+         style="stop-color:#1f4a87;stop-opacity:0;"
+         offset="1"
+         id="stop3779" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2991">
+      <stop
+         style="stop-color:#001a8e;stop-opacity:1;"
+         offset="0"
+         id="stop2993" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0;"
+         offset="1"
+         id="stop2995" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3775"
+       id="linearGradient3781"
+       x1="-0.5"
+       y1="375.52304"
+       x2="1066.2142"
+       y2="375.52304"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="951"
+     inkscape:window-height="736"
+     inkscape:window-x="108"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="-0.70710678,0.70710678"
+       position="-77.142857,320"
+       id="guide3795" />
+    <sodipodi:guide
+       orientation="-0.70710678,0.70710678"
+       position="262.85714,288.57143"
+       id="guide3864" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="fill:url(#linearGradient3781);fill-rule:evenodd;stroke:#3364a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2985"
+       width="1065.7142"
+       height="742.85712"
+       x="0"
+       y="4.0944824"
+       transform="translate(0,308.2677)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3785"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:82.99999833%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.92197097,1.024006,-0.98436998,0.96616492,231.05913,120.28356)"><flowRegion
+         id="flowRegion3787"><rect
+           id="rect3789"
+           width="677.14288"
+           height="402.85715"
+           x="162.85715"
+           y="195.52306"
+           style="line-height:82.99999833%;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3791"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">RDBMS</flowPara><flowPara
+         id="flowPara3793"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">POSTGRESQL</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.97364148,-0.97500819,1.0170367,0.93171626,-443.41775,508.98249)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:82.99999833%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3797"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3799"><rect
+           style="line-height:82.99999833%;fill:#ffffff;fill-opacity:1"
+           y="195.52306"
+           x="162.85715"
+           height="402.85715"
+           width="677.14288"
+           id="rect3801" /></flowRegion><flowPara
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3803">    ACID</flowPara><flowPara
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3805">DATABASE</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.70605976,0.77331751,-0.7538459,0.72963661,96.927834,322.74857)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:82.99999833%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3807"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3809"><rect
+           style="line-height:82.99999833%;fill:#ffffff;fill-opacity:1"
+           y="195.52306"
+           x="162.85715"
+           height="402.85715"
+           width="677.14288"
+           id="rect3811" /></flowRegion><flowPara
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3815">HOUSE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3819"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:82.99999833%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(-0.70605976,-0.77331751,0.7538459,-0.72963661,121.25522,1132.8304)"><flowRegion
+         id="flowRegion3821"><rect
+           id="rect3823"
+           width="677.14288"
+           height="402.85715"
+           x="162.85715"
+           y="195.52306"
+           style="line-height:82.99999833%;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3825"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">HEADPHONEOUSE</flowPara></flowRoot>    <flowRoot
+       transform="matrix(-1.2726837,-1.3939168,1.3588189,-1.3151813,414.36789,1669.9836)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:82.99999833%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3807-9"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3809-2"><rect
+           style="line-height:82.99999833%;fill:#ffffff;fill-opacity:1"
+           y="195.52306"
+           x="162.85715"
+           height="402.85715"
+           width="677.14288"
+           id="rect3811-8" /></flowRegion><flowPara
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3815-5">LABEL</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3854"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:82.99999833%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.66996241,-0.67090284,0.69982265,0.64111368,-243.2968,930.23133)"><flowRegion
+         id="flowRegion3856"><rect
+           id="rect3858"
+           width="677.14288"
+           height="402.85715"
+           x="162.85715"
+           y="195.52306"
+           style="line-height:82.99999833%;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3860"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold" /><flowPara
+         id="flowPara3862"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">RDBMS</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3854-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:82.99999833%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.66996241,-0.67090284,0.69982265,0.64111368,92.099394,741.79221)"><flowRegion
+         id="flowRegion3856-3"><rect
+           id="rect3858-3"
+           width="677.14288"
+           height="402.85715"
+           x="162.85715"
+           y="195.52306"
+           style="line-height:82.99999833%;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3860-6"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold" /><flowPara
+         id="flowPara3862-6"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">THE WORLD</flowPara><flowPara
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3896">MOST ADVANCED</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3913"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:82.99999833%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.1322107,-1.1338,1.1826734,1.0834575,-26.798784,789.56339)"><flowRegion
+         id="flowRegion3915"><rect
+           id="rect3917"
+           width="677.14288"
+           height="402.85715"
+           x="162.85715"
+           y="195.52306"
+           style="line-height:82.99999833%;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3919"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">    </flowPara><flowPara
+         id="flowPara3921"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:82.99999833%;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">DATABASE</flowPara></flowRoot>  </g>
+</svg>
