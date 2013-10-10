@@ -123,7 +123,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
      inkscape:cx="1867.2549"
-     inkscape:cy="318.29079"
+     inkscape:cy="363.54558"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -170,11 +170,12 @@
        transform="translate(-9.1518209,-446.09968)"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#aaccee;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1294.0054,1314.2407 268.7006,-255.9727 659.0235,2.8285 -4.2426,287.0853 -923.4815,-4.2426 z"
+       style="fill:#aaccee;stroke:none"
+       d="m 1294.0054,1314.2407 65.0538,-274.3575 865.4987,2.8285 -7.071,305.4701 -923.4815,-4.2426 z"
        id="path3827"
        inkscape:connector-curvature="0"
-       transform="translate(-9.1518209,-446.09968)" />
+       transform="translate(-9.1518209,-446.09968)"
+       sodipodi:nodetypes="cccccc" />
     <path
        style="fill:#ccff99;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1163.8978,908.3614 4.2426,125.865 1015.4053,2.8284 -2.8284,-117.37969 z"
@@ -184,7 +185,7 @@
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#ff9bff;stroke:none"
-       d="m 1539.4121,-176.61907 50.4402,208.910765 554.8432,1.463315 0,-210.71782 z"
+       d="m 1539.4121,-176.61907 51.8544,172.1412123 556.2574,-1.3651121 -2.8284,-171.1198402 z"
        id="path3823"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -3629,26 +3630,26 @@
     <text
        xml:space="preserve"
        style="font-size:21.21761131px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
-       x="1681.4042"
-       y="359.51657"
+       x="1668.8856"
+       y="369.58167"
        id="text3806"
        sodipodi:linespacing="125%"
        transform="scale(1.0167293,0.98354596)"><tspan
          id="tspan3808"
          sodipodi:role="line"
-         x="1681.4042"
-         y="359.51657"
+         x="1668.8856"
+         y="369.58167"
          style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium">PostgresForest</tspan></text>
     <text
        transform="scale(1.0167293,0.98354596)"
        sodipodi:linespacing="125%"
        id="text3644"
-       y="313.50467"
+       y="291.93658"
        x="1931.774"
        style="font-size:21.21761131px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
        xml:space="preserve"><tspan
          style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
-         y="313.50467"
+         y="291.93658"
          x="1931.774"
          sodipodi:role="line"
          id="tspan3726">Postgres-XC</tspan></text>
@@ -3665,19 +3666,6 @@
          y="137.86958"
          x="1660.7496"
          sodipodi:role="line">PostgreSQL-R</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:21.21761131px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
-       x="1660.7496"
-       y="137.86958"
-       id="text3796"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0167293,0.98354596)"><tspan
-         sodipodi:role="line"
-         x="1660.7496"
-         y="137.86958"
-         style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
-         id="tspan3798">PostgreSQL-R</tspan></text>
     <text
        transform="scale(1.0167293,0.98354596)"
        sodipodi:linespacing="125%"
@@ -3767,18 +3755,31 @@
          x="1330.5815"
          sodipodi:role="line">UltraSQL</tspan></text>
     <text
+       xml:space="preserve"
+       style="font-size:21.21761131px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
+       x="1714.1644"
+       y="-157.99864"
+       id="text3739"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0167293,0.98354596)"><tspan
+         sodipodi:role="line"
+         x="1714.1644"
+         y="-157.99864"
+         style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
+         id="tspan3741">AsterDB</tspan></text>
+    <text
        transform="scale(1.0167293,0.98354596)"
        sodipodi:linespacing="125%"
        id="text3788"
-       y="-157.99864"
-       x="1714.1644"
+       y="258.98434"
+       x="2039.6454"
        style="font-size:21.21761131px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
        xml:space="preserve"><tspan
          id="tspan3790"
          style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
-         y="-157.99864"
-         x="1714.1644"
-         sodipodi:role="line">AsterDB</tspan></text>
+         y="258.98434"
+         x="2039.6454"
+         sodipodi:role="line">StormDB</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:21.21761131px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
@@ -3948,10 +3949,16 @@
        d="m 1543.0772,677.83877 5.7487,22.64607"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
     <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 1281.3902,436.36042 26.1199,440.25794"
+       id="path3727"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3748"
-       d="m 1281.3902,436.36042 26.1199,440.25794"
+       d="m 1369.0714,434.94621 11.9778,188.52793"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
     <path
        sodipodi:nodetypes="cc"
@@ -3978,8 +3985,26 @@
        d="m 1520.0356,442.1382 18.4767,229.4644"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
     <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3759"
+       d="m 1665.6996,626.2286 1.8493,30.51614"
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3761"
+       d="m 1665.6996,626.2286 1.8493,30.51614"
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3763"
+       d="m 1665.6996,626.2286 1.8493,30.51614"
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
-       d="m 1696.8123,433.89556 24.4767,204.4644"
+       d="m 1870.7605,658.75551 55.5894,-24.63819"
        id="path13471"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -4017,17 +4042,17 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3802"
-       d="m 1523.331,361.05528 352.1557,0.65378"
+       d="m 1523.331,369.54056 352.1557,0.65378"
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3804"
-       d="m 1523.331,361.05528 352.1557,0.65378"
+       d="m 1618.0833,335.59944 513.376,2.06799"
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1857.0854,318.62887 271.5455,2.06799"
+       d="m 1857.0854,297.41567 271.5455,2.06799"
        id="path3642"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -4086,14 +4111,26 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 1525.6678,432.69188 2.55,-61.67824"
+       id="path3743"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3800"
-       d="m 1525.6678,432.69186 2.55,-70.0347"
+       d="m 1597.7927,431.27765 15.2779,-96.90476"
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3735"
+       d="m 1848.1085,429.86344 6.7926,-133.67431"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
-       d="m 1848.1085,429.86344 5.3784,-113.87532"
+       d="m 2037.6131,298.34158 -0.2785,-31.85093"
        id="path3766"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -4124,19 +4161,24 @@
     <text
        xml:space="preserve"
        style="font-size:27.54542732px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
-       x="1584.5151"
-       y="6.0802488"
+       x="1650.129"
+       y="7.3299842"
        id="text13445-4"
        sodipodi:linespacing="125%"
        transform="scale(0.88369629,1.1316105)"><tspan
          sodipodi:role="line"
-         x="1584.5151"
-         y="6.0802488"
+         x="1650.129"
+         y="7.3299842"
          style="font-size:22.03634262px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
-         id="tspan3606-8">PowerGres</tspan></text>
+         id="tspan3606-8">PowerGres   Plus</tspan><tspan
+         sodipodi:role="line"
+         x="1650.129"
+         y="34.875416"
+         style="font-size:22.03634262px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
+         id="tspan3725" /></text>
     <path
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1340.741,17.03582 183.2146,2.068"
+       d="m 1340.741,17.03582 787.0838,0.653786"
        id="path11521-6-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -4251,23 +4293,41 @@
          y="675.77795"
          style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium">Bizgres</tspan></text>
     <text
+       xml:space="preserve"
+       style="font-size:21.21761131px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
+       x="1736.3434"
+       y="640.47064"
+       id="text3753"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0167293,0.98354596)"><tspan
+         sodipodi:role="line"
+         x="1736.3434"
+         y="640.47064"
+         style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
+         id="tspan3755" /><tspan
+         id="tspan3757"
+         sodipodi:role="line"
+         x="1736.3434"
+         y="661.68823"
+         style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium">GridSQL</tspan></text>
+    <text
        transform="scale(1.0167293,0.98354596)"
        sodipodi:linespacing="125%"
        id="text3625-0"
-       y="623.21619"
-       x="1765.5532"
+       y="616.02679"
+       x="2014.5322"
        style="font-size:21.21761131px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
        xml:space="preserve"><tspan
          id="tspan3629-4"
          style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
-         y="623.21619"
-         x="1765.5532"
+         y="616.02679"
+         x="2014.5322"
          sodipodi:role="line" /><tspan
          style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
-         y="644.43378"
-         x="1765.5532"
+         y="637.24438"
+         x="2014.5322"
          sodipodi:role="line"
-         id="tspan3850">GridSQL</tspan></text>
+         id="tspan3850">Stado</tspan></text>
     <path
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 1537.3731,675.7151 95.4157,2.068"
@@ -4275,10 +4335,16 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
+       style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1669.8949,657.27145 202.896,2.068"
+       id="path3751"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3633-8-9"
-       d="m 1719.3924,638.88667 163.298,2.068"
+       d="m 1925.8676,633.22982 202.896,2.068"
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -4293,8 +4359,20 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3729"
        d="m 1527.4926,752.85221 607.4531,0.65378"
+       style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3737"
+       d="m 1379.0002,625.57299 294.9119,-3.58886"
+       style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 2036.6095,262.12011 85.6083,-0.76043"
        id="path3758"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -4335,18 +4413,31 @@
        d="m 1718.0496,-69.70624 396.8251,3.89642"
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
+       transform="scale(0.88616211,1.1284617)"
+       sodipodi:linespacing="125%"
+       id="text3731"
+       y="617.10278"
+       x="2109.843"
+       style="font-size:23.06907463px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999994;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
+       xml:space="preserve"><tspan
+         id="tspan3733"
+         style="font-size:18.45526123px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999994;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
+         y="617.10278"
+         x="2109.843"
+         sodipodi:role="line">Greenplum</tspan></text>
+    <text
        xml:space="preserve"
-       style="font-size:27.54542732px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
-       x="2032.8052"
-       y="609.36176"
+       style="font-size:23.06907463px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999994;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
+       x="1634.269"
+       y="546.9223"
        id="text3744"
        sodipodi:linespacing="125%"
-       transform="scale(0.88369629,1.1316105)"><tspan
+       transform="scale(0.88616211,1.1284617)"><tspan
          sodipodi:role="line"
-         x="2032.8052"
-         y="609.36176"
-         style="font-size:22.03634262px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
-         id="tspan3746">Greenplum</tspan></text>
+         x="1634.269"
+         y="546.9223"
+         style="font-size:18.45526123px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999994;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
+         id="tspan3746">ExtenDB</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:27.54542732px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
@@ -4425,7 +4516,7 @@
            width="178.19089"
            id="rect3849" /></flowRegion><flowPara
          id="flowPara3851">Windows Ports</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.91333605,0,0,1.3786698,24.885557,-799.08124)"
+       transform="matrix(0.95430548,0,0,1.3786698,-41.038611,-799.08124)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:95.99999785%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
        id="flowRoot3853"
        xml:space="preserve"><flowRegion
@@ -4462,7 +4553,7 @@
            width="238.57869"
            id="rect3873" /></flowRegion><flowPara
          id="flowPara3875">Redistribution</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.91333605,0,0,1.4117119,27.713986,-198.39481)"
+       transform="matrix(0.91333605,0,0,1.4117119,5.086569,-252.13493)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:95.99999785%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
        id="flowRoot3877"
        xml:space="preserve"><flowRegion
@@ -4695,17 +4786,30 @@
          x="1411.9097"
          sodipodi:role="line">pgCluster</tspan></text>
     <text
+       transform="scale(1.0167293,0.98354596)"
+       sodipodi:linespacing="125%"
+       id="text3747"
+       y="271.802"
+       x="1601.734"
+       style="font-size:21.21761131px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
+       xml:space="preserve"><tspan
+         id="tspan3749"
+         style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
+         y="271.802"
+         x="1601.734"
+         sodipodi:role="line">pgCluster-II</tspan></text>
+    <text
        xml:space="preserve"
        style="font-size:21.21761131px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
-       x="1601.734"
-       y="271.802"
+       x="1888.2684"
+       y="335.06839"
        id="text3678-8"
        sodipodi:linespacing="125%"
        transform="scale(1.0167293,0.98354596)"><tspan
          sodipodi:role="line"
-         x="1601.734"
-         y="271.802"
+         x="1888.2684"
+         y="335.06839"
          style="font-size:16.97409058px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
-         id="tspan3660-7">pgCluster-II</tspan></text>
+         id="tspan3660-7">pgPool-II</tspan></text>
   </g>
 </svg>
