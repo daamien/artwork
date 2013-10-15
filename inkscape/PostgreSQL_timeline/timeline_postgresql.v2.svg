@@ -121,9 +121,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1227.8611"
-     inkscape:cy="951.54093"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1349.977"
+     inkscape:cy="911.94286"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -153,7 +153,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -194,9 +194,10 @@
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:#d40000;fill-opacity:0.19289341;stroke:none"
-       d="m 664.88059,31.03633 94.84178,-178.19091 347.03473,4.24264 -6.4666,175.36248 z"
+       d="m 661.88059,51.03633 97.84178,-198.19091 347.03473,4.24264 -5.9666,189.86248 z"
        id="path4733"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <path
        inkscape:connector-curvature="0"
        id="path10701"
@@ -3288,19 +3289,6 @@
          style="font-size:20.95571518px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
          id="tspan3724">Mammoth PostgreSQL</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-size:26.19464302px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
-       x="1071.4996"
-       y="451.25381"
-       id="text3806"
-       sodipodi:linespacing="125%"
-       transform="scale(1.2552243,0.79667037)"><tspan
-         id="tspan3808"
-         sodipodi:role="line"
-         x="1071.4996"
-         y="451.25381"
-         style="font-size:20.95571518px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium">PostgresForest</tspan></text>
-    <text
        transform="scale(1.2552243,0.79667037)"
        sodipodi:linespacing="125%"
        id="text3644"
@@ -3687,18 +3675,6 @@
        d="m 1489.0457,-26.944721 491.0185,0.65378"
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path3802"
-       d="m 1080.5695,365.54056 536.7434,0.65378"
-       style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path3804"
-       d="m 1224.9876,331.59944 782.4698,2.06799"
-       style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <path
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 1589.2663,293.41567 413.8801,2.06799"
        id="path3642"
@@ -3759,18 +3735,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
-       d="m 1084.1312,428.69188 3.8866,-61.67824"
-       id="path3743"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path3800"
-       d="m 1194.0614,427.27765 23.2861,-96.90476"
-       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
-    <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3735"
@@ -3807,21 +3771,39 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
+       transform="scale(1.0909856,0.91660238)"
+       sodipodi:linespacing="125%"
+       id="text3703"
+       y="4.6854415"
+       x="899.47919"
+       style="font-size:34.00677872px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999994;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
+       xml:space="preserve"><tspan
+         id="tspan3705"
+         style="font-size:27.20542526px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999994;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
+         y="4.6854415"
+         x="899.47919"
+         sodipodi:role="line">PowerGres   Plus</tspan><tspan
+         id="tspan3707"
+         style="font-size:27.20542526px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999994;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
+         y="38.692223"
+         x="899.47919"
+         sodipodi:role="line" /></text>
+    <text
        xml:space="preserve"
        style="font-size:34.00677872px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999994;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
        x="899.47919"
-       y="4.6854415"
+       y="36.324024"
        id="text13445-4"
        sodipodi:linespacing="125%"
-       transform="scale(1.0909856,0.91660237)"><tspan
+       transform="scale(1.0909856,0.91660238)"><tspan
          sodipodi:role="line"
-         x="899.47919"
-         y="4.6854415"
+         x="902.53448"
+         y="36.324024"
          style="font-size:27.20542526px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999994;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
-         id="tspan3606-8">PowerGres   Plus</tspan><tspan
+         id="tspan3606-8">PowerGres   </tspan><tspan
          sodipodi:role="line"
          x="899.47919"
-         y="38.692223"
+         y="70.330803"
          style="font-size:27.20542526px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#d40000;stroke:#d40000;stroke-width:0.99999994;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
          id="tspan3725" /></text>
     <path
@@ -3831,8 +3813,14 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3701"
        d="M 777.077,432.2441 803.67291,13.312"
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 783.077,434.2441 810.17291,38.312"
        id="path13471-6-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -4446,18 +4434,11 @@
          y="330.5379"
          x="988.59619"
          sodipodi:role="line">pgCluster-II</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:26.19464302px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988;font-family:Sans Guilt MB;-inkscape-font-specification:Sans Guilt MB Medium"
-       x="1342.3433"
-       y="408.64474"
-       id="text3678-8"
-       sodipodi:linespacing="125%"
-       transform="scale(1.2552243,0.79667037)"><tspan
-         sodipodi:role="line"
-         x="1342.3433"
-         y="408.64474"
-         style="font-size:20.95571518px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#339900;stroke:#339900;stroke-width:0.99999988;font-family:Cabin;-inkscape-font-specification:Cabin Medium"
-         id="tspan3660-7">pgPool-II</tspan></text>
+    <path
+       style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 810.52537,37.26239 2000.671,36.41618"
+       id="path11521-6-4-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
