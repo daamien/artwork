@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SCRIBUSUTF8NEW Version="1.4.3.svn">
-    <DOCUMENT ANZPAGES="2" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="French" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="1" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+<SCRIBUSUTF8NEW Version="1.4.1.svn">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="French" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="1" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -79,150 +79,93 @@
             <trail/>
             <PageItemAttributes/>
         </MASTEROBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="86.9518284105513" YPOS="1311.60826771654" WIDTH="625" HEIGHT="101.39173228346" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Gris 70" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 625 0 625 0 625 0 625 0 625 101.392 625 101.392 625 101.392 625 101.392 0 101.392 0 101.392 0 101.392 0 101.392 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 625 0 625 0 625 0 625 0 625 101.392 625 101.392 625 101.392 625 101.392 0 101.392 0 101.392 0 101.392 0 101.392 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="136.61823171645" YPOS="1683.37889760236" WIDTH="522.657988755991" HEIGHT="24.4016" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 522.658 0 522.658 0 522.658 0 522.658 0 522.658 24.4016 522.658 24.4016 522.658 24.4016 522.658 24.4016 0 24.4016 0 24.4016 0 24.4016 0 24.4016 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 522.658 0 522.658 0 522.658 0 522.658 0 522.658 24.4016 522.658 24.4016 522.658 24.4016 522.658 24.4016 0 24.4016 0 24.4016 0 24.4016 0 24.4016 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.617601795190041" gYpos="0" gWidth="170.929133858268" gHeight="24.4015999999999" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="136.00062992126" YPOS="88.8901512487157" WIDTH="523.275590551181" HEIGHT="77.775203081993" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 77.7752 523.276 77.7752 523.276 77.7752 523.276 77.7752 0 77.7752 0 77.7752 0 77.7752 0 77.7752 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 522.148 -40.9874 522.148 -40.9874 522.148 -40.9874 522.148 -40.9874 526.212 36.6286 526.212 36.6286 526.212 36.6286 526.212 36.6286 4.06331 77.616 4.06331 77.616 4.06331 77.616 4.06331 77.616 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="18.845276567648" gWidth="590.181787066438" gHeight="1347.12047964964" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="136.00062992126" YPOS="83.220859910133" WIDTH="523.275590551181" HEIGHT="77.775203081993" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 77.7752 523.276 77.7752 523.276 77.7752 523.276 77.7752 0 77.7752 0 77.7752 0 77.7752 0 77.7752 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 522.148 -40.9874 522.148 -40.9874 522.148 -40.9874 522.148 -40.9874 526.212 36.6286 526.212 36.6286 526.212 36.6286 526.212 36.6286 4.06331 77.616 4.06331 77.616 4.06331 77.616 4.06331 77.616 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="18.845276567648" gWidth="590.181787066438" gHeight="1347.12047964964" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Cabin Regular" CH="Une com­mune en com­mun"/>
             <para PARENT="Titre principal" ALIGN="1"/>
             <ITEXT FONT="Cabin Regular" FONTSIZE="30" FCOLOR="Gris 70" CH="Eymoutiers vivante et solidaire"/>
             <para PARENT="Titre principal" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="136.00062992126" YPOS="162.669291338583" WIDTH="523.275590551181" HEIGHT="559.580708661417" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 559.581 523.276 559.581 523.276 559.581 523.276 559.581 0 559.581 0 559.581 0 559.581 0 559.581 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 559.581 523.276 559.581 523.276 559.581 523.276 559.581 0 559.581 0 559.581 0 559.581 0 559.581 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="27.8180615265139" gYpos="126.873929448845" gWidth="590.181787066438" gHeight="1347.12047964964" LAYER="0" BOOKMARK="0" NEXTITEM="4" BACKITEM="-1">
-            <ITEXT CPARENT="emphase" CH="Du neuf à Ey­mou­tiers:"/>
-            <ITEXT CH=" un groupe d’habitants  a décidé de présenter une autre liste que celle de la municipalité sortante, sous le nom "/>
-            <ITEXT FONT="Droid Sans Bold" CH="«"/>
-            <nbspace/>
-            <ITEXT FONT="Droid Sans Bold" CH="Une commune en commun"/>
-            <nbspace/>
-            <ITEXT FONT="Droid Sans Bold" CH="»"/>
-            <ITEXT CH=". "/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="136.00062992126" YPOS="156.75" WIDTH="523.275590551181" HEIGHT="622.5" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 622.5 523.276 622.5 523.276 622.5 523.276 622.5 0 622.5 0 622.5 0 622.5 0 622.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 622.5 523.276 622.5 523.276 622.5 523.276 622.5 0 622.5 0 622.5 0 622.5 0 622.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="27.8180615265139" gYpos="126.873929448845" gWidth="590.181787066438" gHeight="1347.12047964964" LAYER="0" BOOKMARK="0" NEXTITEM="3" BACKITEM="-1">
+            <ITEXT FONT="Droid Sans Bold" FONTSIZE="11" CH="Du neuf à Eymoutiers:"/>
+            <ITEXT FONTSIZE="11" CH=" un groupe d’habitants a décidé de présenter une liste qui se propose d'œuvrer à plus de solidarité, et à un meilleur partage des réflexions, comme des prises de décision. Nous avons nommé cette liste « une commune en commun », car ce qui est commun à tous est l'affaire de tous, non de quelques uns."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="Reprenant des expériences déjà menées ailleurs, la première mesure que nous préconisons est la tenue régulière d’une "/>
-            <ITEXT CPARENT="emphase" CH="assemblée de commune"/>
-            <ITEXT CH=", à laquelle participeront tous les habitants qui le souhaitent, où les besoins de chacun pourront s’exprimer, et les solutions collectives seront cherchées"/>
-            <nbspace/>
-            <ITEXT CH=": cette assemblée sera une source d’information et d’inspiration constante pour le conseil municipal. "/>
+            <ITEXT CH="Reprenant des expériences déjà menées ailleurs, la première mesure que nous préconisons est la tenue régulière d’une assemblée de commune, à laquelle participeront tous les habitants qui le souhaitent, où les besoins et les remarques de chacun pourront s’exprimer, où des solutions collectives seront recherchées : cette assemblée sera une source d’information et d’inspiration constante pour le conseil municipal."/>
             <para PARENT="Corps de texte"/>
             <ITEXT CH="Réveiller la belle endormie"/>
             <para PARENT="Titre intermédiaire"/>
-            <ITEXT CH="Eymoutiers a perdu près d’un tiers de sa population en un peu moins de 40 ans. Notre commune a un patrimoine architectural et naturel magnifique, mais ils est sous-utilisé, elle a de nombreux commerces, dont certains sommeillent en dehors des périodes de vacances, elle a une gare mais la fréquence des liaisons est sans cesse remise en cause. Augmenter la population et sa partie active, c’est aussi augmenter les moyens de la solidarité, pour les plus démunis comme pour les personnes âgées."/>
+            <ITEXT CH="Eymoutiers a perdu près d’un tiers de sa population en un peu moins de 40 ans. Notre commune a un patrimoine architectural et naturel magnifique mais il est sous-utilisé. Elle a de nombreux commerces mais leur activité est malheureusement trop réduite hors saison."/>
+            <nbspace/>
+            <ITEXT CH=" Elle a une gare mais la fréquence des liaisons est sans cesse remise en cause. "/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="Si la ville devient plus attractive pour tous, y compris les jeunes et les familles, elle le sera aussi davantage pour les entreprises, dont l’implantation se décide de plus en plus en fonction de la qualité de la vie offerte. Nous ne voulons pas vivre dans une lointaine banlieue de Limoges, mais dans une vivante «"/>
-            <nbspace/>
-            <ITEXT CH="ville à la campagne"/>
-            <nbspace/>
-            <ITEXT CH="» alliant l’ensemble des services d’une ville moyenne à la qualité de la vie près de la nature."/>
+            <ITEXT CH="Vouloir une augmentation de la population et de sa partie active, c’est vouloir une augmentation des moyens de la solidarité pour les plus démunis comme pour les personnes âgées, c’est aussi vouloir une commune plus vivante et plus ouverte sur l’extérieur."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="Les relations avec le territoire limousin, notamment à travers la Communauté de communes, et la qualité du bâti du bourg sont deux atouts sur lesquels s’appuyer pour mener à la fois une politique d’accueil des nouveaux arrivants, et de développement des «"/>
-            <nbspace/>
-            <ITEXT CH="circuits courts"/>
-            <nbspace/>
-            <ITEXT CH="», économes en énergie, peu polluants et permettant à terme de dépenser moins. Quelques directions, parmi tant d’autres, que nous préconisons"/>
-            <nbspace/>
-            <ITEXT CH=":"/>
+            <ITEXT CH="Si la ville devient plus attractive pour tous, elle le sera aussi davantage pour les entreprises, dont l’implantation se décide de plus en plus en fonction de la qualité de la vie offerte. "/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="Pour une cité où l’on travaille…"/>
+            <ITEXT CH="La situation géographique de la ville au centre du Limousin, son implantation dans le Parc Naturel Régional, son influence au sein de la Communauté de Communes des Portes de Vassivière et du Pays Monts et Barrages ainsi que la richesse de son patrimoine bâti et environnemental, sont des atouts qui offrent à Eymoutiers un destin plus enviable que de devenir une lointaine banlieue de Limoges."/>
+            <para PARENT="Corps de texte"/>
+            <ITEXT CH="Voici quelques pistes et directions que nous proposons :"/>
+            <para PARENT="Corps de texte"/>
+            <ITEXT CH="Pour une cité où l’on travaille..."/>
             <para PARENT="Titre intermédiaire"/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="emphase" CH="Relance et soutien du projet «"/>
-            <nbspace/>
-            <ITEXT CPARENT="emphase" CH="pôle viande local"/>
-            <nbspace/>
-            <ITEXT CPARENT="emphase" CH="»"/>
-            <ITEXT CH=", en concertation avec les commerçants et les paysans de la région. Cela représente des emplois et un encouragement à l’agriculture paysanne menacée par l’industrialisation."/>
+            <ITEXT CH="- Soutien au projet « pôle-viande local », en concertation avec les paysans et les commerçants de la région. Cela représente des emplois et un encouragement à l’agriculture paysanne menacée par l’industrialisation."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="emphase" CH="Mise en valeur de l’important patrimoine forestier"/>
-            <ITEXT CH=" de la Commune, notamment par le lancement d’une étude pour l’utilisation du bois dans le chauffage de tous les lieux publics, si possible à travers l’installation d’une centrale unique. "/>
+            <ITEXT CH="- Mise en valeur de l’important patrimoine forestier de la Commune, notamment par le lancement d’une étude pour l’utilisation du bois dans le chauffage des bâtiments publics."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="…qu’on habite avec plaisir…"/>
+            <ITEXT CH="- Travaux d'isolation thermique sur les bâtiments communaux."/>
+            <para PARENT="Corps de texte"/>
+            <ITEXT CH="- Recours autant que possible aux circuits courts, avec le triple avantage de soutenir l'activité locale, de permettre des économies de transport et moins de pollution."/>
+            <para PARENT="Corps de texte"/>
+            <ITEXT CH="...qu’on habite avec plaisir..."/>
             <para PARENT="Titre intermédiaire"/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="emphase" CH="Mise en valeur du bâti du bourg"/>
-            <ITEXT CH=" (incitation aux propriétaires pour la rénovation avec mise aux normes de confort et d’économie d’énergie). "/>
+            <ITEXT CH="- Mise en valeur du bâti du bourg"/>
+            <nbspace/>
+            <ITEXT CH=": inciter les propriétaires à la rénovation de leur bien, et à la mise aux normes de confort et d’économies d’énergie."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="emphase" CH="Rendre le centre plus attrayant pour les piétons"/>
-            <ITEXT CH=" et pas seulement pendant les marchés."/>
+            <ITEXT CH="- Rendre le centre plus commode pour les piétons et pas seulement pendant les marchés."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="…où l’on s’entraide…"/>
+            <ITEXT CH="...où l’on s’entraide..."/>
             <para PARENT="Titre intermédiaire"/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="emphase" CH="Soutien à la maison de santé"/>
-            <ITEXT CH=" et incitation à l’installation d’un laboratoire de biologie et d’un centre radiologique."/>
+            <ITEXT CH="- Soutien au projet de maison de santé."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- Dans le cadre de la réforme des rythmes scolaires, développer un dispositif cohérent ,  à l’écoute des  besoins des parents, entre les différent acteurs éducatifs avec "/>
-            <ITEXT CPARENT="emphase" CH="création d’un emploi de coordinateur pour les activités périscolaires"/>
-            <ITEXT CH=", le tout dans le cadre de la Communauté de com­munes."/>
+            <ITEXT CH="- Dans le cadre de la réforme des rythmes scolaires, développer un dispositif cohérent, à l’écoute des besoins des enfants et des parents, entre les différents acteurs éducatifs: création d’un emploi de coordinateur pour les activités périscolaires, au sein de la Communauté de Communes. "/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="emphase" CH="Développer l’accueil des nouveaux arrivants"/>
-            <ITEXT CH=", par l’installation de logements relais dans la partie du Buchou que conservera la Commune."/>
+            <ITEXT CH="- Développer l’accueil des nouveaux arrivants, par l’installation de logements relais dans la partie du Buchou que conservera la Commune."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- La présence du "/>
-            <ITEXT CPARENT="emphase" CH="Centre d’accueil pour demandeurs d’Asile"/>
-            <ITEXT CH=" peut être une chance pour Eymoutiers, à condition que l’arrivée de ces 80 personnes soit préparée et accompagnée de manière à développer les contacts et les relations de confiance entre pelauds et demandeurs d’asile."/>
+            <breakframe/>
+            <ITEXT CH="- La présence du Centre d’accueil pour demandeurs d’Asile (CADA) est une chance pour Eymoutiers, à condition que l’arrivée des 80 personnes prévues soit préparée et accompagnée de manière à développer les contacts et les relations de confiance entre pelauds et demandeurs d’asile."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- Mener une politique d’"/>
-            <ITEXT CPARENT="emphase" CH="aide aux déplacements"/>
-            <ITEXT CH=", pour tous, par la relance des taxis collectifs (en liaison avec les compagnies existantes) et tous autres moyens (prêt de vélos électriques)."/>
+            <ITEXT CH="- Mener une politique d’aide aux déplacements, pour tous, par la relance des taxis collectifs (en liaison avec les compagnies existantes) et tous autres moyens (prêt de vélos électriques, ...). Peser sur les négociations entre la Région et la SNCF pour une desserte pertinente de la ligne ferroviaire existante, en concertation avec les autres communes concernées. "/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="emphase" CH="Solidarité avec les personnes en difficultés"/>
-            <nbspace/>
-            <ITEXT CH=": relance et augmentation des moyens du Centre communal d’Action sociale, regroupement de tous les services d’aide dans un bâtiment unique."/>
+            <ITEXT CH="- Solidarité avec les personnes en difficultés : relance et augmentation des moyens du Centre Communal d’Action Sociale."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="…où on s’amuse et se culti­ve…"/>
+            <ITEXT CH="...où l'on s’amuse et se cultive..."/>
             <para PARENT="Titre intermédiaire"/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="emphase" CH="Une politique festive conviviale…"/>
-            <ITEXT CH=" soutien aux associations pour les fêtes qui sont autant d’occasion de rencontres entre les différentes catégories de population."/>
+            <ITEXT CH="- Une politique festive conviviale : soutien aux associations pour les fêtes qui sont autant d’occasion de rencontres par-delà les barrières catégorielles et de générations."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="emphase" CH="…et une politique culturelle ambitieuse"/>
-            <ITEXT CH=", par le soutien aux initiatives des associations mais aussi par la création d’un événement culturel annuel d’une portée régionale et nationale, événement qui s’ancrerait dans la forte identité locale comme dans l’ouverture au monde."/>
+            <ITEXT CH="- Une politique culturelle ambitieuse, par le soutien aux initiatives des associations mais aussi par la création d’un événement culturel annuel d’une portée régionale voire nationale, événement qui s’ancrerait dans la forte identité locale comme dans l’ouverture au monde."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- Continuation du "/>
-            <ITEXT CPARENT="emphase" CH="soutien aux associations sportives existantes"/>
-            <ITEXT CH=", et rénovation des sentiers balisés de randonnée, ainsi que des parcours d’orientation, atouts décisifs pour l’accueil de touristes en quête de nature."/>
+            <ITEXT CH="- Continuer à soutenir les associations sportives existantes, et rénover les sentiers balisés de randonnée, ainsi que les parcours d’orientation, atouts décisifs pour l’accueil de touristes en quête de nature."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- "/>
-            <ITEXT CPARENT="emphase" CH="Création d’une Maison pour Tous"/>
-            <ITEXT CH=" où seraient regroupés à la fois les activités sociales et culturelles, avec notamment un espace réservé aux adolescents."/>
+            <ITEXT CH="- Création d’une Maison pour Tous où seraient regroupées les activités sociales et culturelles, avec notamment un espace réservé aux ado­lescents."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="- Toutes ces politiques seront menées en collaboration étroite avec la Communauté de Commune et en symbiose avec la montagne limousine en général."/>
+            <ITEXT CH="Toutes ces politiques seront menées en collaboration étroite avec la Communauté de Communes."/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="Telles sont quelques-unes des propositions dont la liste «"/>
-            <nbspace/>
-            <ITEXT CH="Une commune en commun"/>
-            <nbspace/>
-            <ITEXT CH="» est porteuse."/>
+            <ITEXT CH="Parmi ces propositions, lesquelles doivent être considérées comme prioritaires ? Comment les mettre en œuvre sans augmenter les impôts ?"/>
             <para PARENT="Corps de texte"/>
-            <ITEXT CH="Parmi ces propositions, lesquelles doivent être considérées comme prioritaires"/>
-            <nbspace/>
-            <ITEXT CH="? Comment les mettre en œuvre sans augmenter les impôts"/>
-            <nbspace/>
-            <ITEXT CH="? "/>
-            <para PARENT="Corps de texte"/>
-            <ITEXT CH="En préfiguration du fonctionnement municipal que nous souhaitons, nous proposons d’en débattre, ainsi que de tout ce qui concerne la Commune, lors d’une "/>
-            <ITEXT CPARENT="emphase" CH="réunion publique"/>
-            <ITEXT CH=" qui aura lieu le "/>
-            <ITEXT CPARENT="emphase" CH="1er mars à 17h au 1er étage de la mai­rie."/>
-            <para PARENT="Corps de texte"/>
-            <ITEXT FONT="Cabin Regular" FONTSIZE="22" CH="Amenez vos idées"/>
-            <nbspace/>
-            <ITEXT FONT="Cabin Regular" FONTSIZE="22" CH="!"/>
-            <trail PARENT="Corps de texte" ALIGN="1"/>
+            <ITEXT CH="En préfiguration du fonctionnement municipal que nous souhaitons, nous proposons d’en débattre, ainsi que de tout ce qui concerne la commune, lors d’une "/>
+            <ITEXT FONT="Droid Sans Bold" CH="réunion publique qui aura lieu le 1er mars à 17h au 1er étage de la mai­rie"/>
+            <ITEXT CH="."/>
+            <para/>
+            <ITEXT FONTSIZE="22" CH="Amenez vos idées !"/>
+            <trail PARENT="Titre intermédiaire" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="136.00062992126" YPOS="937.890708661418" WIDTH="523.275590551181" HEIGHT="375.023622047244" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 375.024 523.276 375.024 523.276 375.024 523.276 375.024 0 375.024 0 375.024 0 375.024 0 375.024 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 375.023 523.276 375.023 523.276 375.023 523.276 375.023 0 375.023 0 375.023 0 375.023 0 375.023 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="27.8180615265139" gYpos="900.35804711211" gWidth="590.181787066438" gHeight="1347.12047964964" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="3">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="136.00062992126" YPOS="937.890708661418" WIDTH="523.275590551181" HEIGHT="375.023622047244" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 375.024 523.276 375.024 523.276 375.024 523.276 375.024 0 375.024 0 375.024 0 375.024 0 375.024 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 375.023 523.276 375.023 523.276 375.023 523.276 375.023 0 375.023 0 375.023 0 375.023 0 375.023 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="27.8180615265139" gYpos="900.35804711211" gWidth="590.181787066438" gHeight="1347.12047964964" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="2">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="127.496692913386" YPOS="1688.45370079165" WIDTH="119.076141732283" HEIGHT="20.4468504114259" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="16" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 119.076 0 119.076 0 119.076 0 119.076 0 119.076 20.4469 119.076 20.4469 119.076 20.4469 119.076 20.4469 0 20.4469 0 20.4469 0 20.4469 0 20.4469 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 119.076 0 119.076 0 119.076 0 119.076 0 119.076 20.4468 119.076 20.4468 119.076 20.4468 119.076 20.4468 0 20.4468 0 20.4468 0 20.4468 0 20.4468 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="3.95472442716004" gWidth="170.929133858268" gHeight="24.4015999999999" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -231,15 +174,11 @@
             <trail PARENT="Infos transversales"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="136.00062992126" YPOS="1316.07968503937" WIDTH="523.275590551181" HEIGHT="110.220472440945" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 110.22 523.276 110.22 523.276 110.22 523.276 110.22 0 110.22 0 110.22 0 110.22 0 110.22 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 110.22 523.276 110.22 523.276 110.22 523.276 110.22 0 110.22 0 110.22 0 110.22 0 110.22 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="102.00062992126" YPOS="1315.42614173228" WIDTH="598.700568568031" HEIGHT="110.220472440945" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Gris 70" PCOLOR2="None" COLUMNS="1" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="36.8503937007874" TEXTRA="5.66929133858268" BEXTRA="0" REXTRA="39.6850393700787" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 598.701 0 598.701 0 598.701 0 598.701 0 598.701 110.22 598.701 110.22 598.701 110.22 598.701 110.22 0 110.22 0 110.22 0 110.22 0 110.22 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 598.701 0 598.701 0 598.701 0 598.701 0 598.701 110.22 598.701 110.22 598.701 110.22 598.701 110.22 0 110.22 0 110.22 0 110.22 0 110.22 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="FontAwesome Regular" CH=""/>
             <ITEXT CH=" Notre éti­quette ?"/>
             <para PARENT="Titre blanc"/>
-            <ITEXT CH="Notre liste se présente sans étiquette. Cela ne signifie pas que nous revendiquons un «"/>
-            <nbspace/>
-            <ITEXT CH="apolitisme"/>
-            <nbspace/>
-            <ITEXT CH="» qui consiste toujours à subir la politique faite par les autres. Mais nous ne nous reconnaissons pas dans les politiques institutionnelles si dures avec les pauvres et si tendres avec les riches, et encore moins, dans l’impasse nauséabonde du racisme bleu marine. Nous pensons que la politique peut être rénovée si tout le monde s’en saisit, et d’abord au niveau local."/>
+            <ITEXT CH="Notre liste se présente sans appartenance politique. Cela ne signifie pas que nous revendiquons un « apolitisme » qui consiste toujours à laisser faire, donc à se laisser faire. Fidèles à la juste méfiance historique du peuple limousin à l'égard de tous les enrôlements, nous ne nous reconnaissons pas dans ces politiques récurrentes si dures avec les pauvres et si tendres avec les riches, et encore moins dans l’impasse du racisme bleu marine. Nous pensons que la politique peut être rénovée si tout le monde s’en saisit, avant tout au niveau local."/>
             <trail PARENT="Corps de texte blanc"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -249,11 +188,16 @@
             <trail PARENT="Corps de texte"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="169.343474204112" YPOS="739.174488185356" WIDTH="555.179652486087" HEIGHT="68.7165354366915" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Cool Black" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="68.0314960629921" TEXTRA="11.3385826771654" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 555.18 0 555.18 0 555.18 0 555.18 0 555.18 68.7165 555.18 68.7165 555.18 68.7165 555.18 68.7165 0 68.7165 0 68.7165 0 68.7165 0 68.7165 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 555.18 0 555.18 0 555.18 0 555.18 0 555.18 68.7165 555.18 68.7165 555.18 68.7165 555.18 68.7165 0 68.7165 0 68.7165 0 68.7165 0 68.7165 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Corps de texte" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Cabin Regular" FONTSIZE="20" FEATURES="inherit underline" FCOLOR="White" CH="Réunion pu­blique d'­informa­tion"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="202.951198489291" YPOS="765.25" WIDTH="516.571928200908" HEIGHT="66.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Cool Black" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="68.0314960629921" TEXTRA="11.3385826771654" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 516.572 0 516.572 0 516.572 0 516.572 0 516.572 66.75 516.572 66.75 516.572 66.75 516.572 66.75 0 66.75 0 66.75 0 66.75 0 66.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 516.572 0 516.572 0 516.572 0 516.572 0 516.572 66.75 516.572 66.75 516.572 66.75 516.572 66.75 0 66.75 0 66.75 0 66.75 0 66.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="516.571928200908" gHeight="83.6410236220478" PSTYLE="Corps de texte" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Cabin Regular" FONTSIZE="20" FEATURES="inherit underline" FCOLOR="White" CH="Réunion pu­blique"/>
             <para PARENT="Corps de texte"/>
             <ITEXT FONT="Cabin Regular" FONTSIZE="20" FCOLOR="White" CH="Sa­me­di 1er mars à 17h au 1er étage de la mairie"/>
             <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="212.20559834687" YPOS="775.25" WIDTH="72.1966063775392" HEIGHT="73.6410236220478" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 72.1966 0 72.1966 0 72.1966 0 72.1966 0 72.1966 73.641 72.1966 73.641 72.1966 73.641 72.1966 73.641 0 73.641 0 73.641 0 73.641 0 73.641 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 72.1966 0 72.1966 0 72.1966 0 72.1966 0 72.1966 73.641 72.1966 73.641 72.1966 73.641 72.1966 73.641 0 73.641 0 73.641 0 73.641 0 73.641 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="9.25439985757873" gYpos="10" gWidth="516.571928200908" gHeight="83.6410236220478" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="FontAwesome Regular" FONTSIZE="51" FCOLOR="White" FSHADE="100" CH=""/>
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="136.00062992126" YPOS="1466.5" WIDTH="523.275590551181" HEIGHT="204.324488188976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.85102362204724" PCOLOR="None" PCOLOR2="Black" COLUMNS="3" COLGAP="8.50393700787402" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="5.66929133858268" TEXTRA="5.66929133858268" BEXTRA="5.66929133858268" REXTRA="5.66929133858268" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 204.324 523.276 204.324 523.276 204.324 523.276 204.324 0 204.324 0 204.324 0 204.324 0 204.324 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 523.276 0 523.276 0 523.276 0 523.276 0 523.276 204.324 523.276 204.324 523.276 204.324 523.276 204.324 0 204.324 0 204.324 0 204.324 0 204.324 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -270,13 +214,13 @@
             <breakline/>
             <ITEXT CH="45 ans, En­sei­gnant"/>
             <para PARENT="Corps de texte" ALIGN="0" LINESP="12"/>
-            <ITEXT CH="Fa­ti­ma Chaou­ch"/>
+            <ITEXT CH="Fa­ti­ma Chaouche"/>
             <breakline/>
             <ITEXT CH="44 ans, Aide Soi­gnante"/>
             <para PARENT="Corps de texte" ALIGN="0" LINESP="12"/>
             <ITEXT CH="Da­mien Clo­chard"/>
             <breakline/>
-            <ITEXT CH="34 ans, In­génieur"/>
+            <ITEXT CH="35 ans, In­génieur"/>
             <para PARENT="Corps de texte" ALIGN="0" LINESP="12"/>
             <ITEXT CH="Charlotte Ordonneau, "/>
             <breakline/>
@@ -286,13 +230,13 @@
             <breakline/>
             <ITEXT CH="38 ans, Ar­tiste de cirque"/>
             <para PARENT="Corps de texte" ALIGN="0" LINESP="12"/>
-            <ITEXT CH="Isabelle Lamanda"/>
+            <ITEXT CH="Isabelle Laman­da"/>
             <breakline/>
-            <ITEXT CH="XX ans, Employée d’as­so­cia­tion"/>
+            <ITEXT CH="34 ans, Employée d’as­so­cia­tion"/>
             <para PARENT="Corps de texte" ALIGN="0" LINESP="12"/>
             <ITEXT CH="Neil Hutchinson"/>
             <breakline/>
-            <ITEXT CH="XX ans, Électricien"/>
+            <ITEXT CH="33 ans, Électricien"/>
             <para PARENT="Corps de texte" ALIGN="0" LINESP="12"/>
             <ITEXT CH="Thérèse Benetreau"/>
             <breakline/>
@@ -356,12 +300,7 @@
             <trail PARENT="Corps de texte"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="178.20559834687" YPOS="752.25" WIDTH="72.1966063775392" HEIGHT="73.6410236220478" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 72.1966 0 72.1966 0 72.1966 0 72.1966 0 72.1966 73.641 72.1966 73.641 72.1966 73.641 72.1966 73.641 0 73.641 0 73.641 0 73.641 0 73.641 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 72.1966 0 72.1966 0 72.1966 0 72.1966 0 72.1966 73.641 72.1966 73.641 72.1966 73.641 72.1966 73.641 0 73.641 0 73.641 0 73.641 0 73.641 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FontAwesome Regular" FONTSIZE="51" FCOLOR="White" FSHADE="100" CH=""/>
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="674.382913385826" YPOS="937.890708661418" WIDTH="406.254566929134" HEIGHT="17.9413385826763" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-270" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 406.255 0 406.255 0 406.255 0 406.255 0 406.255 17.9413 406.255 17.9413 406.255 17.9413 406.255 17.9413 0 17.9413 0 17.9413 0 17.9413 0 17.9413 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 406.255 0 406.255 0 406.255 0 406.255 0 406.255 17.9413 406.255 17.9413 406.255 17.9413 406.255 17.9413 0 17.9413 0 17.9413 0 17.9413 0 17.9413 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="674.382913385826" YPOS="937.890708661418" WIDTH="309.359291338582" HEIGHT="17.9413385826763" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-270" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 309.359 0 309.359 0 309.359 0 309.359 0 309.359 17.9413 309.359 17.9413 309.359 17.9413 309.359 17.9413 0 17.9413 0 17.9413 0 17.9413 0 17.9413 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 309.359 0 309.359 0 309.359 0 309.359 0 309.359 17.9413 309.359 17.9413 309.359 17.9413 309.359 17.9413 0 17.9413 0 17.9413 0 17.9413 0 17.9413 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="IPNS - Merci de ne pas je­ter sur la voie pu­blique"/>
             <trail/>
             <PageItemAttributes/>
