@@ -17,8 +17,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="timeline_postgresql.v3.svg"
    inkscape:export-filename="/home/damien/dev/daamien/artwork/inkscape/PostgreSQL_timeline/timeline_postgresql.png"
-   inkscape:export-xdpi="49.987545"
-   inkscape:export-ydpi="49.987545">
+   inkscape:export-xdpi="43.784763"
+   inkscape:export-ydpi="43.784763">
   <defs
      id="defs9897">
     <linearGradient
@@ -239,6 +239,20 @@
          transform="scale(-0.6,-0.6)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-88"
+       style="overflow:visible">
+      <path
+         id="path13504-48"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -247,9 +261,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1469.5855"
-     inkscape:cy="704.43393"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1214.388"
+     inkscape:cy="403.78793"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -296,7 +310,7 @@
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:#aaccee;stroke:none"
-       d="m 455.7093,594.85459 1641.4838,-3.26946 0.6308,411.97717 -1544.15605,-4.2879 C 465.09646,898.94143 461.90503,718.57276 455.7093,594.85459 Z"
+       d="m 455.7093,593.75462 1641.4838,-3.58371 0.6308,451.57519 -1544.15605,-4.7001 C 465.09646,927.06935 461.90503,729.3642 455.7093,593.75462 Z"
        id="path3827"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -386,7 +400,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path10723"
-       d="m 1279.9058,-287.55783 21.2585,1288.50813"
+       d="m 1281.32,-288.97204 21.2585,1288.50813"
        style="fill:#eeeeee;stroke:#cccccf;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
@@ -2249,8 +2263,14 @@
       </g>
     </g>
     <path
+       style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1154.4385,651.35145 349.8448,2.26677"
+       id="path3751"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="m 1326.1641,399.63172 31.4487,207.50775"
+       d="m 1326.1641,399.63172 39.934,289.53214"
        id="path3720"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -2718,17 +2738,17 @@
          x="854.10828"
          sodipodi:role="line">PostgreSQL-R</tspan></text>
     <text
-       transform="scale(1.369708,0.73008263)"
+       transform="scale(1.3082765,0.76436441)"
        sodipodi:linespacing="125%"
        id="text3656"
-       y="832.87604"
-       x="1322.1683"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.58374596px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988"
+       y="893.80371"
+       x="1222.1058"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.92592621px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988"
        xml:space="preserve"><tspan
          id="tspan3658"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
-         y="832.87604"
-         x="1322.1683"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.94074249px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
+         y="893.80371"
+         x="1222.1058"
          sodipodi:role="line">HadoopDB</tspan></text>
     <text
        xml:space="preserve"
@@ -2807,16 +2827,16 @@
          sodipodi:role="line">UltraSQL</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.58374596px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988"
-       x="796.97803"
-       y="1132.9348"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.92592621px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988"
+       x="834.40094"
+       y="1111.7426"
        id="text3739"
        sodipodi:linespacing="125%"
-       transform="scale(1.369708,0.73008263)"><tspan
+       transform="scale(1.3082765,0.7643644)"><tspan
          sodipodi:role="line"
-         x="796.97803"
-         y="1132.9348"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:0.99999988"
+         x="834.40094"
+         y="1111.7426"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.94074249px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:0.99999988"
          id="tspan3741">AsterDB</tspan></text>
     <text
        transform="scale(1.369708,0.73008263)"
@@ -2833,16 +2853,16 @@
          sodipodi:role="line">StormDB</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.58374596px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988"
-       x="1049.019"
-       y="1105.5475"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.92592621px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988"
+       x="1111.2485"
+       y="1081.219"
        id="text13445"
        sodipodi:linespacing="125%"
-       transform="scale(1.369708,0.73008263)"><tspan
+       transform="scale(1.3082765,0.76436441)"><tspan
          sodipodi:role="line"
-         x="1049.019"
-         y="1105.5475"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:0.99999988"
+         x="1111.2485"
+         y="1081.219"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.94074249px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:0.99999988"
          id="tspan3606">Yahoo!  Everest</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -2958,6 +2978,12 @@
        id="path3648"
        d="m 912.41261,401.69186 31.85098,-290.0347"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3784"
+       d="M 845.92501,398.10607 958.75233,859.57722"
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
     <g
        transform="matrix(3.7202345,0,0,2.0498992,-1668.0712,-691.29822)"
        id="g12879">
@@ -3021,11 +3047,13 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3740"
-       d="m 905.89623,671.83877 10.43305,22.64607"
-       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+       d="m 900.23938,716.32203 10.43305,24.82274"
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       inkscape:transform-center-x="0.051909609"
+       inkscape:transform-center-y="-13.597863" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="M 451.4037,401.77463 553.5011,971.44174"
+       d="M 451.4037,401.77463 552.08689,1009.6255"
        id="path3727"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3033,7 +3061,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3748"
-       d="m 609.59515,398.94621 18.47154,215.52793"
+       d="m 609.59515,398.94621 12.81469,250.88327"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
     <g
        transform="matrix(3.3443849,0,0,2.0498993,-1665.7506,-691.54465)"
@@ -3092,11 +3120,11 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3756"
-       d="m 855.64789,416.36042 23.15888,327.25794"
+       d="m 855.64789,416.36042 23.15888,366.85592"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="m 822.98021,412.36042 31.55296,484.75541"
+       d="m 822.98021,412.36042 27.31032,507.38283"
        id="path3641"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3110,17 +3138,17 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3730"
-       d="m 864.07874,406.1382 33.53274,259.4644"
+       d="m 864.07874,406.1382 34.94695,304.71923"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3763"
-       d="m 1101.6789,615.2286 30.1172,35.51614"
+       d="m 1558.4699,691.04022 -0.9955,30.44456"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="m 1511.9122,652.75551 75.2275,1.52476"
+       d="m 1510.498,654.39236 75.2275,1.67132"
        id="path13471"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3144,7 +3172,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-28)"
-       d="m 1699.2013,418.55303 17.4804,252.13745"
+       d="m 1699.2013,418.55303 16.0662,195.56891"
        id="path4719-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3205,7 +3233,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3718"
-       d="m 1355.6024,611.69402 721.0701,1.36089"
+       d="m 1362.6735,692.82277 721.0701,1.49169"
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3252,14 +3280,8 @@
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
-       id="path3784"
-       d="M 847.33922,396.69186 962.99497,838.36402"
-       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
        id="path3792"
-       d="m 1191.9024,404.69186 15.4942,407.84878"
+       d="m 1191.9024,404.69186 11.2516,427.64777"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
@@ -3271,7 +3293,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3639"
-       d="m 1736.6431,893.01776 58.9251,47.54604"
+       d="m 1736.6431,921.99051 58.9251,52.11602"
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
     <path
        sodipodi:nodetypes="cc"
@@ -3486,85 +3508,79 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:0.99999988">EnterpriseDB  Postgres  Plus Advanced Server</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.58374596px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988"
-       x="714.44824"
-       y="873.58643"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.92592621px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988"
+       x="751.23883"
+       y="886.47083"
        id="text3734"
        sodipodi:linespacing="125%"
-       transform="scale(1.369708,0.73008263)"><tspan
+       transform="scale(1.3082765,0.76436441)"><tspan
          sodipodi:role="line"
-         x="714.44824"
-         y="873.58643"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
+         x="751.23883"
+         y="886.47083"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.94074249px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
          id="tspan3736" /><tspan
          id="tspan3738"
          sodipodi:role="line"
-         x="714.44824"
-         y="902.17017"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988">Bizgres</tspan></text>
+         x="751.23883"
+         y="916.39673"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.94074249px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988">Bizgres</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.58374596px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988"
-       x="955.94617"
-       y="854.60522"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.92592621px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988"
+       x="990.02386"
+       y="807.39246"
        id="text3753"
        sodipodi:linespacing="125%"
-       transform="scale(1.369708,0.73008263)"><tspan
+       transform="scale(1.3082765,0.76436441)"><tspan
          sodipodi:role="line"
-         x="955.94617"
-         y="854.60522"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
+         x="990.02386"
+         y="807.39246"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.94074249px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
          id="tspan3755" /><tspan
          id="tspan3757"
          sodipodi:role="line"
-         x="955.94617"
-         y="883.18896"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988">GridSQL</tspan></text>
+         x="990.02386"
+         y="837.31836"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.94074249px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988">GridSQL</tspan></text>
     <text
-       transform="scale(1.369708,0.73008262)"
+       transform="scale(1.3082765,0.76436441)"
        sodipodi:linespacing="125%"
        id="text3625-0"
-       y="858.47931"
-       x="1187.9792"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.58374596px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988"
+       y="809.59827"
+       x="1235.1143"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.92592621px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988"
        xml:space="preserve"><tspan
          id="tspan3629-4"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
-         y="858.47931"
-         x="1187.9792"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.94074249px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
+         y="809.59827"
+         x="1235.1143"
          sodipodi:role="line" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
-         y="887.06305"
-         x="1187.9792"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.94074249px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
+         y="839.52417"
+         x="1235.1143"
          sodipodi:role="line"
          id="tspan3850">Stado</tspan></text>
     <path
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 895.54401,669.7151 173.16699,2.068"
+       d="M 895.54401,712.58003 1068.711,714.8468"
        id="path3732"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1136.0537,651.27145 368.2296,2.068"
-       id="path3751"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3633-8-9"
-       d="m 1594.0279,654.09988 71.8619,1.068"
+       d="m 1595.4421,654.45174 71.8619,1.17065"
        style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 915.43766,696.4258 1165.10274,4.89642"
+       d="m 906.95238,743.27229 1165.10272,5.36705"
        id="path3742"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 549.5209,974.67003 1532.8649,3.8364"
+       d="m 549.5209,1011.4909 1532.8649,4.2052"
        id="path3750"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3572,17 +3588,17 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3729"
-       d="m 877.6065,746.85221 1200.1282,0.65378"
+       d="m 877.6065,791.47446 1200.1282,0.71662"
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3737"
-       d="m 625.79415,619.57299 481.15335,-3.58886"
+       d="m 620.1373,653.37578 481.1533,-3.93381"
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 847.28313,895.42075 1949.731,896.07453"
+       d="M 847.28313,924.62447 1949.731,925.34109"
        id="path3764"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3590,7 +3606,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3672"
-       d="m 1789.462,941.17306 287.6123,2.48221"
+       d="m 1789.462,974.77435 287.6123,2.72079"
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3606,7 +3622,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 962.35539,838.41483 1114.43671,7.72485"
+       d="m 962.35539,862.13932 1114.43671,8.46734"
        id="path3786"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3614,85 +3630,85 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3633-8-9-3"
-       d="m 1204.9238,813.8341 871.7429,1.06799"
+       d="m 1204.9238,835.19597 871.7429,1.17064"
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       transform="scale(1.1938118,0.83765298)"
+       transform="scale(1.1402693,0.87698582)"
        sodipodi:linespacing="125%"
        id="text3731"
-       y="824.18005"
-       x="1255.3121"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:31.07798386px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
+       y="838.35767"
+       x="1128.2198"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32.53728104px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
        xml:space="preserve"><tspan
          id="tspan3733"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24.86238861px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
-         y="824.18005"
-         x="1255.3121"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.02982712px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
+         y="838.35767"
+         x="1128.2198"
          sodipodi:role="line">Greenplum</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.46631241px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
-       x="652.65314"
-       y="691.79675"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:30.84993362px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
+       x="693.76379"
+       y="688.79822"
        id="text3744"
        sodipodi:linespacing="125%"
-       transform="scale(1.1319019,0.88346876)"><tspan
+       transform="scale(1.0811361,0.92495294)"><tspan
          sodipodi:role="line"
-         x="652.65314"
-         y="691.79675"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.57305145px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
+         x="693.76379"
+         y="688.79822"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24.67994881px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
          id="tspan3746">ExtenDB</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.10839462px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
-       x="1187.4552"
-       y="1151.266"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:38.85085678px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
+       x="1243.2134"
+       y="1140.6681"
        id="text3752"
        sodipodi:linespacing="125%"
-       transform="scale(1.1904899,0.83999036)"><tspan
+       transform="scale(1.1370963,0.87943295)"><tspan
          sodipodi:role="line"
-         x="1187.4552"
-         y="1151.266"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.68671799px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
+         x="1243.2134"
+         y="1140.6681"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:31.08068848px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
          id="tspan3754">Netezza</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.10839462px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
-       x="1140.5565"
-       y="877.45972"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:38.85085678px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
+       x="969.00171"
+       y="889.38306"
        id="text3760"
        sodipodi:linespacing="125%"
-       transform="scale(1.1904899,0.83999036)"><tspan
+       transform="scale(1.1370963,0.87943297)"><tspan
          sodipodi:role="line"
-         x="1140.5565"
-         y="877.45972"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.68671799px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
+         x="969.00171"
+         y="889.38306"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:31.08068848px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
          id="tspan3762">Vertica</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.10839462px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
-       x="830"
-       y="1055.5193"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:38.85085678px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
+       x="868.97351"
+       y="1040.4254"
        id="text3768"
        sodipodi:linespacing="125%"
-       transform="scale(1.1904899,0.83999036)"><tspan
+       transform="scale(1.1370963,0.87943295)"><tspan
          sodipodi:role="line"
-         x="830"
-         y="1055.5193"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.68671799px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
+         x="868.97351"
+         y="1040.4254"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:31.08068848px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
          id="tspan3770">ParAccel</tspan></text>
     <text
-       transform="scale(1.1904899,0.83999036)"
+       transform="scale(1.1370963,0.87943295)"
        sodipodi:linespacing="125%"
        id="text3674"
-       y="1112.3677"
-       x="1627.2578"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.10839462px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
+       y="1099.9432"
+       x="1703.6674"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:38.85085678px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
        xml:space="preserve"><tspan
          id="tspan3676"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.68671799px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
-         y="1112.3677"
-         x="1627.2578"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:31.08068848px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
+         y="1099.9432"
+         x="1703.6674"
          sodipodi:role="line">Amazon Redshift</tspan></text>
     <text
        xml:space="preserve"
@@ -3746,7 +3762,7 @@
            width="375.72583"
            id="rect3873" /></flowRegion><flowPara
          id="flowPara3875">Redistribution</flowPara></flowRoot>    <flowRoot
-       transform="matrix(1.490122,0,0,1.4117119,-1615.7674,-258.13493)"
+       transform="matrix(1.490122,0,0,1.5474013,-1615.7674,-339.80741)"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:95.99999785%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot3877"
        xml:space="preserve"><flowRegion
@@ -4276,27 +4292,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path3633-8-9-6"
-       d="m 1712.7992,675.33894 368.2297,2.068"
-       style="fill:#98fc66;stroke:#339900;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       transform="scale(1.369708,0.73008262)"
-       sodipodi:linespacing="125%"
-       id="text3656-5"
-       y="915.77661"
-       x="1332.7236"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.58374596px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339900;fill-opacity:1;stroke:#339900;stroke-width:0.99999988"
-       xml:space="preserve"><tspan
-         id="tspan3658-4"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.86699867px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#339900;stroke:#339900;stroke-width:0.99999988"
-         y="915.77661"
-         x="1332.7236"
-         sodipodi:role="line">CitusDB</tspan></text>
-    <path
        style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-28-0)"
-       d="m 1959.6216,418.52692 30.4263,256.0872"
+       d="m 1959.6216,418.52692 19.1126,199.51866"
        id="path4719-9-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -4398,5 +4395,49 @@
        id="path3727-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3672-5"
+       d="m 1557.309,724.98985 520.9575,-0.10764"
+       style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3672-4"
+       d="m 1710.9756,622.12167 363.9798,1.30658"
+       style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.92592621px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999988"
+       x="1318.6077"
+       y="938.65784"
+       id="text3739-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.3082765,0.76436441)"><tspan
+         sodipodi:role="line"
+         x="1318.6077"
+         y="938.65784"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.94074249px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:0.99999988"
+         id="tspan3741-1">Hadapt</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.69999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-88)"
+       d="m 1106.1165,651.72309 39.8722,0.25711"
+       id="path13471-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       transform="scale(1.1402693,0.87698582)"
+       sodipodi:linespacing="125%"
+       id="text3731-3"
+       y="699.81061"
+       x="1606.9951"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32.53728104px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan3733-5"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.02982712px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:1"
+         y="699.81061"
+         x="1606.9951"
+         sodipodi:role="line">CitusDB</tspan></text>
   </g>
 </svg>
