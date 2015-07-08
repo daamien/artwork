@@ -247,9 +247,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1561.9024"
-     inkscape:cy="655.41221"
+     inkscape:zoom="0.5"
+     inkscape:cx="1469.5855"
+     inkscape:cy="704.43393"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3329,7 +3329,7 @@
          id="tspan3725" /></text>
     <path
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 563.36975,-18.96418 1383.16245,0.653786"
+       d="m 563.36551,-18.96418 1514.17089,0.653786"
        id="path11521-6-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3564,7 +3564,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 549.53074,974.84716 1394.84516,3.48221"
+       d="m 549.5209,974.67003 1532.8649,3.8364"
        id="path3750"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -3696,16 +3696,16 @@
          sodipodi:role="line">Amazon Redshift</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:36.14334488px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999994"
-       x="1136.509"
-       y="-213.5063"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.33027077px;line-height:125%;font-family:'Sans Guilt MB';-inkscape-font-specification:'Sans Guilt MB Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.99999994"
+       x="1393.9382"
+       y="-167.35284"
        id="text13445-4-6"
        sodipodi:linespacing="125%"
-       transform="scale(1.3460465,0.7429164)"><tspan
+       transform="scale(1.0550728,0.94780187)"><tspan
          sodipodi:role="line"
-         x="1136.509"
-         y="-213.5063"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.91467476px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:0.99999994"
+         x="1393.9382"
+         y="-167.35284"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.66421509px;font-family:Cabin;-inkscape-font-specification:'Cabin Medium';fill:#d40000;stroke:#d40000;stroke-width:0.99999994"
          id="tspan4715">TruCG     /   Truviso</tspan></text>
     <flowRoot
        transform="matrix(1.6575852,0,0,1.2362352,-1632.1,-950.01311)"
@@ -3975,8 +3975,8 @@
          x="774.60413"
          sodipodi:role="line">pgCluster-II</tspan></text>
     <path
-       style="fill:#d40000;stroke:#d40000;stroke-width:4.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 572.20341,5.26239 1948.4095,4.41618"
+       style="fill:#d40000;stroke:#d40000;stroke-width:4.19999933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 572.19848,5.26239 2081.4143,4.41618"
        id="path11521-6-4-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
